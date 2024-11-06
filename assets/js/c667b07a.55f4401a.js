@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmarcus=self.webpackChunkmarcus||[]).push([[523],{7988:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/aurelius/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
